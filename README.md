@@ -19,7 +19,6 @@ Check out the live app: [Calculator App](https://13reath.github.io/Calculator-ap
 -   React
 -   Vite
 -   Tailwind CSS v4
--   League Spartan Font (Google Fonts)
 -   GitHub Pages (for deployment)
 
 ## Deployment
