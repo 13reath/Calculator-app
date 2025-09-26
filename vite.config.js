@@ -14,6 +14,6 @@ export default defineConfig({
     ],
     base: '/Calculator-app/',
     build: {
-        outDir: 'docs',
+        outDir: 'dist',
     },
 });
